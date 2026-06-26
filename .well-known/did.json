@@ -15,7 +15,7 @@
             "id": "did:web:rinkalbhojani.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:rinkalbhojani.github.io",
-            "publicKeyBase58": "ENV2PTJzszPs5gADc2Cy1ijBamS5MDu6X37DFXjaVCtE"
+            "publicKeyBase58": "ER1LTYPSTM8AGybuy7TogDTG8s3HHzWUC1AT7AWR5zyv"
         }
     ]
 }
